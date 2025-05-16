@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mocha": "^11.1.0"
+    "mocha": "^11.3.0"
   },
   "name": "testing-project",
   "version": "1.0.0",
@@ -11,11 +11,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
     "cypress": "^14.3.3",
     "esbuild": "^0.25.4"
-  }
+  },
+  "description": ""
 }

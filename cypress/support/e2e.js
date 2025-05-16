@@ -1,2 +1,2 @@
-import "./commands";
-import "@badeball/cypress-cucumber-preprocessor/register";
+import './commands';
+import '@badeball/cypress-cucumber-preprocessor/register';
